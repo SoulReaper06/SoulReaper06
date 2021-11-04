@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... Web Dev Projects | CTFS
 - 🤔 I’m looking for help with ... BackEnd Development
 - 💬 Ask me about ... Getting errors in HTML or anything 
-- 📫 How to reach me: ... [Discord - SOUL ジ REAPER#8474 ]
+- 📫 How to reach me: ... [Discord - soulReaper06#8474 ]
 - 😄 Pronouns: ... he/him - TeamMaker
 - ⚡ Fun fact: ... Still Having hard time centering a DIV
 
